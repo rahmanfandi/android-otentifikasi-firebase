@@ -19,6 +19,7 @@ import kotlinx.android.synthetic.main.activity_main.view.*
 class MainActivity : AppCompatActivity() {
 
 
+    //perubahan
     lateinit  var editTextKey: EditText
     lateinit var editTextValue :EditText
     lateinit var editTextDebug: EditText
