@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TesOten</string>
+    <string name="editText_userName">user name</string>
+    <string name="editText_key">key</string>
+    <string name="button_sigIn">SigIn</string>
+    <string name="button_sigOut">SigOut</string>
+    <string name="button_read">read</string>
+    <string name="editText_value">value</string>
+    <string name="button_write">write</string>
+    <string name="textview_UID">TextView_UID</string>
+    <string name="textview_readResult">TextView read result</string>
+</resources>

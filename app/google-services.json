@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "492421296816",
+    "firebase_url": "https://fir-4-c7f40.firebaseio.com",
+    "project_id": "fir-4-c7f40",
+    "storage_bucket": "fir-4-c7f40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492421296816:android:e3ca7e83e275662e0f0175",
+        "android_client_info": {
+          "package_name": "com.example.auth1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492421296816-49l86tvqgugm82nk6cf5cujl40ci3a31.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.auth1",
+            "certificate_hash": "70cf27e9b3281a5e70e5c51546f91ecfac64ace5"
+          }
+        },
+        {
+          "client_id": "492421296816-vhrh1qatrbo926su9ss8fa9j5l691gn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChq62sKgdQxServbLrke-ikxXr9Mk04y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492421296816-vhrh1qatrbo926su9ss8fa9j5l691gn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492421296816:android:3c05e0b0875ca8520f0175",
+        "android_client_info": {
+          "package_name": "com.example.fag1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492421296816-n1f3unns9d70udl8b5d53utuqj5mgsj7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fag1",
+            "certificate_hash": "70cf27e9b3281a5e70e5c51546f91ecfac64ace5"
+          }
+        },
+        {
+          "client_id": "492421296816-vhrh1qatrbo926su9ss8fa9j5l691gn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChq62sKgdQxServbLrke-ikxXr9Mk04y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492421296816-vhrh1qatrbo926su9ss8fa9j5l691gn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492421296816:android:08bd1f8b7d72d09b0f0175",
+        "android_client_info": {
+          "package_name": "com.example.fag2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492421296816-s7apcdaccidbbb7fcbcn1ijjoqk0epap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fag2",
+            "certificate_hash": "70cf27e9b3281a5e70e5c51546f91ecfac64ace5"
+          }
+        },
+        {
+          "client_id": "492421296816-vhrh1qatrbo926su9ss8fa9j5l691gn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChq62sKgdQxServbLrke-ikxXr9Mk04y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492421296816-vhrh1qatrbo926su9ss8fa9j5l691gn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492421296816:android:695266a1ba181fe00f0175",
+        "android_client_info": {
+          "package_name": "com.example.tesoten"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492421296816-4e7e3qui6lqb0iaap4h7e8bpjmspcane.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tesoten",
+            "certificate_hash": "70cf27e9b3281a5e70e5c51546f91ecfac64ace5"
+          }
+        },
+        {
+          "client_id": "492421296816-vhrh1qatrbo926su9ss8fa9j5l691gn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChq62sKgdQxServbLrke-ikxXr9Mk04y4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492421296816-vhrh1qatrbo926su9ss8fa9j5l691gn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
